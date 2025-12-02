@@ -43,7 +43,7 @@ This template collection is **completely free to use**.
 
 To test the templates, simply clone this repository and open it as an Obsidian vault:
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/Holmes555/obsidian-templates`
 2. Open Obsidian and select "Open folder as vault"
 3. Choose the cloned repository folder
 4. Start exploring and using the templates!
