@@ -2,7 +2,7 @@
 
 A comprehensive collection of Obsidian templates for tracking books, films, games, concerts, articles, dreams, trips, and managing your productivity workflow. These templates use Dataview queries to automatically organize and display your content.
 
-![[obsidian_templates.gif]]
+![obsidian_templates.gif](Assets/obsidian_templates.gif)
 
 ## ✨ Features
 
