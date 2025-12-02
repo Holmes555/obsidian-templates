@@ -18,15 +18,15 @@ A comprehensive collection of Obsidian templates for tracking books, films, game
 ### Required Obsidian Plugins
 
 - **Dataview**
-   - For querying and displaying your notes
-   - Enable JavaScript queries in plugin settings
+  - For querying and displaying your notes
+  - Enable JavaScript queries in plugin settings
 
-- **Charts** 
-   - For visual charts on the home page
-   - Required for the home page analytics
+- **Charts**
+  - For visual charts on the home page
+  - Required for the home page analytics
 
 - **Banners**
-   - For custom banners on templates
+  - For custom banners on templates
 
 ### Optional Plugins
 
