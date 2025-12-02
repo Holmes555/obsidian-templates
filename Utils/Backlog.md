@@ -1,7 +1,9 @@
 ---
-date created: 2024-12-05, 21:11:11
+date created: 2025-12-05, 21:11:11
 date modified: 2025-11-14, 17:27:07
-tags: [TODO, Productivity]
+tags:
+  - TODO
+  - Productivity
 ---
 
 # Backlog

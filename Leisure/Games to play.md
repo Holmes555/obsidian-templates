@@ -1,7 +1,9 @@
 ---
-date created: 2024-05-11, 20:09:40
+date created: 2025-05-11, 20:09:40
 date modified: 2025-11-07, 16:57:02
-tags: [Interesting, Game]
+tags:
+  - Interesting
+  - Game
 cssclasses:
   - home
 ---

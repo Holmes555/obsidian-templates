@@ -1,7 +1,8 @@
 ---
-date created: 2024-04-21, 15:48:40
-date modified: 2024-12-07, 19:14:29
-tags: [Productivity]
+date created: 2025-04-21, 15:48:40
+date modified: 2025-12-07, 19:14:29
+tags:
+  - Productivity
 cssclasses:
   - home
 ---
@@ -200,6 +201,8 @@ dv.paragraph(`
 `);
 ```
 
-| <div style="width:400px"><font color="#00b0f0">Weeks of My Life</font></div> | <font color="#92d050">TODO In Progress</font> and <font color="#ffc000">Backlog Active</font> |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![[Weeks of My Life]]                                    | ![[TODO list#In Progress]] ![[Backlog#Active]]                                                |
+<font color="#92d050">TODO In Progress</font>
+![[TODO list#In Progress]]
+
+<font color="#ffc000">Backlog Active</font>
+![[Backlog#Active]]

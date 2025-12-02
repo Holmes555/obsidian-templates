@@ -1,6 +1,6 @@
 ---
-date created: 2024-04-17, 00:00:00
-date modified: 2024-12-05, 21:15:04
+date created: 2025-04-17, 00:00:00
+date modified: 2025-12-05, 21:15:04
 ---
 
 # TODO List
@@ -15,8 +15,8 @@ date(split(row["date created"], ",")[0]) AS "Created At",
 file.folder AS Path, 
 file.etags AS Tags
 FROM #TODO 
-WHERE file.folder != "Filter out folder" 
-AND file.name != "Filter out filename" 
+WHERE file.folder != "Utils/Templates"
+AND file.name != "Backlog" 
 AND !status
 SORT date(split(row["date created"], ",")[0]) DESC
 ```
@@ -31,8 +31,8 @@ date(split(row["date created"], ",")[0]) AS "Created At",
 file.folder AS Path, 
 file.etags AS Tags
 FROM #TODO 
-WHERE file.folder != "Filter out folder" 
-AND file.name != "Filter out filename" 
+WHERE file.folder != "Utils/Templates"
+AND file.name != "Backlog" 
 AND status
 SORT date(split(row["date created"], ",")[0]) DESC
 ```

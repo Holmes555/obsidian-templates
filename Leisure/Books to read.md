@@ -1,7 +1,11 @@
 ---
-date created: 2024-05-11, 20:09:40
+date created: 2025-05-11, 20:09:40
 date modified: 2025-11-14, 17:27:33
-tags: [Interesting, Book, Studying, Productivity]
+tags:
+  - Interesting
+  - Book
+  - Studying
+  - Productivity
 cssclasses:
   - home
 ---
