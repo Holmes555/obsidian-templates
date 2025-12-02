@@ -17,18 +17,23 @@ A comprehensive collection of Obsidian templates for tracking books, films, game
 
 ### Required Obsidian Plugins
 
-1. **Dataview** - For querying and displaying your notes
+- **Dataview**
+   - For querying and displaying your notes
    - Enable JavaScript queries in plugin settings
 
-2. **Charts** - For visual charts on the home page
+- **Charts** 
+   - For visual charts on the home page
    - Required for the home page analytics
 
-3. **Banners** - For custom banners on templates
+- **Banners**
+   - For custom banners on templates
 
 ### Optional Plugins
 
-- **Admonitions** - For callout blocks (used in home page)
-- **Homepage** - To set `Utils/Home page.md` as your vault's home page
+- **Admonitions** 
+  - For callout blocks (used in home page)
+- **Homepage** 
+  - To set `Utils/Home page.md` as your vault's home page
 
 ## 📖 Usage
 
