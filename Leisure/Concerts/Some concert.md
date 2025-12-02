@@ -4,7 +4,7 @@ date modified: 2025-05-26, 22:38:02
 tags:
   - Concert
   - Music
-banner: "[[some_banner.png]]"
+banner: "![[some_banner.png]]"
 banner_y: 0.9
 banner_lock: true
 ---

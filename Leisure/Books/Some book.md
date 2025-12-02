@@ -3,7 +3,7 @@ date created: 2025-03-02, 19:09:40
 date modified: 2025-03-26, 22:38:02
 tags:
   - Book
-banner: "[[some_banner.png]]"
+banner: "![[some_banner.png]]"
 banner_y: 0.9
 banner_lock: true
 ---

@@ -3,7 +3,7 @@ date created: 2025-12-05, 21:11:11
 date modified: 2025-12-07, 19:14:29
 tags:
   - Film
-banner: "[[some_banner.png]]"
+banner: "![[some_banner.png]]"
 banner_y: 0.9
 banner_lock: true
 ---

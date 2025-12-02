@@ -3,7 +3,7 @@ date created: 2025-04-21, 15:48:40
 date modified: 2025-11-14, 17:27:33
 tags:
   - Game
-banner: "[[some_banner.png]]"
+banner: "![[some_banner.png]]"
 banner_y: 0.9
 banner_lock: true
 ---

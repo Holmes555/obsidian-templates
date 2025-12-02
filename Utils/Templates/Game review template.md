@@ -3,7 +3,7 @@ date created: "{{date}} {{time}}"
 date modified: "{{date}} {{time}}"
 tags:
   - Game
-banner: "[[some_banner.png]]"
+banner: "![[some_banner.png]]"
 banner_y: 0.9
 banner_lock: true
 ---
