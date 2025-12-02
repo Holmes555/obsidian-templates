@@ -12,8 +12,8 @@ cssclasses:
 
 | <div style="width:250px">Concert<div> | Desire | Location        | <div style="width:85px">Date<div> | <div style="width:65px">Cost<div> | Place | Comment               | Status |
 |---------------------------------------| ------ |-----------------| --------------------------------- |-----------------------------------| ----- |:----------------------| ------ |
-| [[Some band]]                         | 8      | Berlin, Germany | 06-03-2025                        | 100 EUR                           | GA    | Already bought ticket | Went   |
-| Another band                          | 10     | Paris, France   | 09-02-2026                        | 85 EUR                            | GA    | Already bought ticket |        |
+| [[Some concert]]                      | 8      | Berlin, Germany | 06-03-2025                        | 100 EUR                           | GA    | Already bought ticket | Went   |
+| Another concert                       | 10     | Paris, France   | 09-02-2026                        | 85 EUR                            | GA    | Already bought ticket |        |
 
 ## Films Watched
 
@@ -49,7 +49,7 @@ dv.table(["Name", "Language", "Country", "Genre", "Years active", "Concert date"
 
 ## Key Takeaways
 
-- [[Band 1]]
-	![[Band 1#Key Takeaways]]
-- [[Band 2]]
-	![[Band 2#Key Takeaways]]
+- [[Concert 1]]
+	![[Concert 1#Key Takeaways]]
+- [[Concert 2]]
+	![[Concert 2#Key Takeaways]]
