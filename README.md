@@ -29,3 +29,14 @@ A comprehensive collection of Obsidian templates for tracking books, films, game
 
 - **Admonitions** - For callout blocks (used in home page)
 - **Homepage** - To set `Utils/Home page.md` as your vault's home page
+
+## 📖 Usage
+
+This template collection is **completely free to use**. Simply copy the entire repository contents to your Obsidian vault folder. That's it! You can start using the templates immediately.
+
+1. Download or clone this repository
+2. Copy all files and folders to your Obsidian vault
+3. Install the required plugins (see Requirements above)
+4. Start creating notes using the templates!
+
+Feel free to modify, customize, and adapt these templates to fit your personal workflow.
