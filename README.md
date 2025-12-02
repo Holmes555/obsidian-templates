@@ -32,10 +32,23 @@ A comprehensive collection of Obsidian templates for tracking books, films, game
 
 ## 📖 Usage
 
-This template collection is **completely free to use**. Simply copy the entire repository contents to your Obsidian vault folder. That's it! You can start using the templates immediately.
+This template collection is **completely free to use**. 
 
-1. Download or clone this repository
-2. Copy all files and folders to your Obsidian vault
+### Quick Start (Testing)
+
+To test the templates, simply clone this repository and open it as an Obsidian vault:
+
+1. Clone this repository: `git clone <repository-url>`
+2. Open Obsidian and select "Open folder as vault"
+3. Choose the cloned repository folder
+4. Start exploring and using the templates!
+
+### Using in Your Existing Vault
+
+If you want to use these templates in your existing Obsidian vault:
+
+1. Clone or download this repository
+2. Copy all files and folders to your Obsidian vault folder
 3. Install the required plugins (see Requirements above)
 4. Start creating notes using the templates!
 
