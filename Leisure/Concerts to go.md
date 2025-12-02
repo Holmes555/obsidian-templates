@@ -18,7 +18,7 @@ cssclasses:
 ## Films Watched
 
 ```dataviewjs
-let pages = dv.pages('"Concerts folder"');
+let pages = dv.pages('"Leisure/Concerts"');
 
 let data = pages.map(page => [
 	page.file.name,
@@ -49,7 +49,5 @@ dv.table(["Name", "Language", "Country", "Genre", "Years active", "Concert date"
 
 ## Key Takeaways
 
-- [[Concert 1]]
-	![[Concert 1#Key Takeaways]]
-- [[Concert 2]]
-	![[Concert 2#Key Takeaways]]
+- [[Some concert]]
+	![[Some concert#Key Takeaways]]

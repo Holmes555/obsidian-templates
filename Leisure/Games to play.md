@@ -37,7 +37,7 @@ cssclasses:
 ## Games Played
 
 ```dataviewjs
-let pages = dv.pages('"Games folder"');
+let pages = dv.pages('"Leisure/Games"');
 
 let data = pages.map(page => [
 	page.file.name,
@@ -80,7 +80,5 @@ dv.table(["Name", "Developer", "Country", "Publisher", "Genre", "Release date", 
 
 ## Key Takeaways
 
-- [[Game 1]]
-	![[Game 1#Key Takeaways]]
-- [[Game 2]]
-	![[Game 2#Key Takeaways]]
+- [[Some game]]
+	![[Some game#Key Takeaways]]

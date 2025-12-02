@@ -14,16 +14,16 @@ cssclasses:
 
 ## Wishlist
 
-| <div style="width:250px">Book<div>  | Desire | Pages | Comment            | Status   |
-|-------------------------------------| ------ | ----- |:-------------------| -------- |
-| [[Some book]]                       | 8      | 288   |                    | Finished |
-| Another book                        | 9      | 231   | Got recommendation |          |
+| <div style="width:250px">Book<div> | Desire | Pages | Comment            | Status   |
+| ---------------------------------- | ------ | ----- | :----------------- | -------- |
+| [[Some book]]                      | 8      | 288   |                    | Finished |
+| Another book                       | 9      | 231   | Got recommendation |          |
 
 
 ## Books Read
 
 ```dataviewjs
-let pages = dv.pages('"Books folder"');
+let pages = dv.pages('"Leisure/Books"');
 
 let data = pages.map(page => [
 	page.file.name,
@@ -50,7 +50,5 @@ dv.table(["Name", "Author", "Country", "Genre", "Release date", "Completed readi
 
 ## Key Takeaways
 
-- [[Book 1]]
-	![[Book 1#Key Takeaways]]
-- [[Book 2]]
-	![[Book 2#Key Takeaways]]
+- [[Some book]]
+	![[Some book#Key Takeaways]]

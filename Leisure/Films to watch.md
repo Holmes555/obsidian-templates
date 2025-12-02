@@ -20,7 +20,7 @@ cssclasses:
 ## Films Watched
 
 ```dataviewjs
-let pages = dv.pages('"Films folder"');
+let pages = dv.pages('"Leisure/Films"');
 
 let data = pages.map(page => [
 	page.file.name,
@@ -45,7 +45,5 @@ dv.table(["Name", "Director", "Country", "Genre", "Release date", "Duration", "S
 
 ## Key Takeaways
 
-- [[Film 1]]
-	![[Film 1#Key Takeaways]]
-- [[Film 2]]
-	![[Film 2#Key Takeaways]]
+- [[Some film]]
+	![[Some film#Key Takeaways]]
